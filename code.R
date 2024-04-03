@@ -55,7 +55,7 @@ test10:
   Null Hypothesis (H0): The average number of cancer-related deaths is the same across all hospitals.
 Alternative Hypothesis (H1): At least one hospital has a different average number of cancer-related deaths compared to others.
 Test procedure: The test we apply is ANOVA. We have to make sure the assumption is Independence: Each group's observations are independent of the others.Normality: The deaths in each group are approximately normally distributed.Homogeneity of Variances: The variance among the groups is approximately equal.  if  significant result (p-value < 0.05) ,the it supports H1, indicating that there is a difference in the average number of cancer-related deaths among the hospitals.If the number we assume is 0.0001,then it supportsH1.
-
+ 
 Q4:
 
 
